@@ -23,7 +23,7 @@ navbar = dbc.Navbar(
             dbc.Col([
                 html.A(
                     dbc.Col(html.Img(src="/assets/github.png", height="30px")),
-                    href="https://github.com/likai97",
+                    href="https://github.com/likai97/lunch-spot-picker",
                     target="_blank"
                 )
             ]),
