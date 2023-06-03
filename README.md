@@ -1,7 +1,7 @@
 # Lunch Spot Picker
 This app is to find the best lunch spot compromise. 
 
-Visit it on: https://lunch-picker.herokuapp.com/
+Visit it on: https://lunch-spot-picker.herokuapp.com/
 
 **Note**: As the App is in sleep mode per default to reduce costs, the initial loading time can take up to a minute. 
 
